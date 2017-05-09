@@ -1,12 +1,40 @@
+import pyspark
+from pyspark import SparkContext
+import sys
+
+# The haversine formula, getting distance based on longitude and latitude
+from math import radians, cos, sin, asin, sqrt
+def haversine(lon1, lat1, lon2, lat2):
+    # convert decimal degrees to radians 
+    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
+    # haversine formula 
+    dlon = lon2 - lon1 
+    dlat = lat2 - lat1 
+    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
+    c = 2 * asin(sqrt(a))
+    # Radius of earth in kilometers is 6371. Use 3956 for miles
+    r = 3956
+    return c * r
+
+ # To run the program on cluster
+ # spark-submit --name "BDM_LAB5_v" --num-excutors 10 \
+ # hdfs:///user/user/vfung000/BDM_HW5.py\
+ # hdfs:///scratch/share/yellow.csv.gz \
+ # hdfs:/// scratch/share/citibike.csv \
+ # hw5
+
+if __name__ = "__main__":
+	if len(sys.argv) < 3:
+		print "Usage: <taxi file location> <citibike file location> <output file location>"
+		sys.exit(-1)
+
 citi = 'citibike.csv'
 yellow ='yellow.csv.gz'
 
-#citibike = sc.textFile(citi,use_unicode=False)
-#yellowcab = sc.textFile(yellow, use_unicode=False)
+sc = SparkContext()
+citibike = sc.textFile(citi,use_unicode=False)
+yellowcab = sc.textFile(yellow, use_unicode=False)
 
-citibike = spark.read.load(citi, format = 'csv', header=True, inferSchema = False)
-yellowcab = spark.read.load(yellow, format = 'csv', header=True, inferSchema=False
-	)
 
 list(enumerate(citibike.first().split(',')))
 list(enumerate(yellowcab.first().split(',')))
@@ -38,19 +66,6 @@ dropoff_info = yellowcab.mapPartitionsWithIndex(get_dropoff)
 dropoff_info.count()
 dropoff_info.collect()[:5]
 
-# The haversine formula, getting distance based on longitude and latitude
-from math import radians, cos, sin, asin, sqrt
-def haversine(lon1, lat1, lon2, lat2):
-    # convert decimal degrees to radians 
-    lon1, lat1, lon2, lat2 = map(radians, [lon1, lat1, lon2, lat2])
-    # haversine formula 
-    dlon = lon2 - lon1 
-    dlat = lat2 - lat1 
-    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
-    c = 2 * asin(sqrt(a))
-    # Radius of earth in kilometers is 6371. Use 3956 for miles
-    r = 3956
-    return c * r
 
 import datetime as dt
 from datetime import datetime
