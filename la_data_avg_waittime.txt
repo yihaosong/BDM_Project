@@ -1,0 +1,12 @@
+'Bulky Items', 304883.98841892026
+'Dead Animal Removal', 53264.340682458875
+'Electronic Waste', 298253.7477413336
+'Feedback', 3189950.898181818
+'Graffiti Removal', 250007.218783198
+'Homeless Encampment', 2347428.936849711
+'Illegal Dumping Pickup', 547380.576558136
+'Metal/Household Appliances', 302726.44467704877
+'Multiple Streetlight Issue', 1577717.261904762
+'Other', 307474.1650101649
+'Report Water Waste', 22.05461393596987
+'Single Streetlight Issue', 859335.2540347204

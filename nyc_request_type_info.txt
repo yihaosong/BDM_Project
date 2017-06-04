@@ -1,0 +1,220 @@
+'Taxi Report', 6600
+'GENERAL CONSTRUCTION', 471052
+'Snow', 68942
+'Traffic/Illegal Parking', 14047
+'PLUMBING', 558773
+'Foam Ban Enforcement', 15
+'Registration and Transfers', 147
+'Food Establishment', 39795
+'UNSANITARY CONDITION', 240713
+'Transportation Provider Complaint', 84
+'Posting Advertisement', 2772
+'Vacant Lot', 12343
+'Dirty Conditions', 243354
+'Fire Alarm - Modification', 659
+'Window Guard', 10
+'Noise', 305795
+'Taxpayer Advocate Inquiry', 6
+'WATER LEAK', 104263
+'MOLD', 1
+'Health', 152
+'Lead', 27359
+'Building Condition', 20
+'Unsanitary Animal Facility', 266
+'Emergency Response Team ERT', 2884
+'DOOR/WINDOW', 115047
+'LEAD', 1
+'Broken Muni Meter', 161697
+'HEAT/HOT WATER', 678203
+'Dead Tree', 42403
+'Poison Ivy', 261
+'Plant', 2000
+'Disorderly Youth', 4345
+'EAP Inspection - F59', 6248
+'Industrial Waste', 10268
+'Boilers', 12781
+'Found Property', 102
+'HEATING', 864829
+'ELECTRIC', 234088
+'Highway Sign - Dangling', 47
+'Squeegee', 36
+'Noise - Helicopter', 6987
+'Fire Alarm - New System', 853
+'Hazmat Storage/Use', 3
+'Collection Truck Noise', 1146
+'Noise - House of Worship', 7441
+'Water Conservation', 27419
+'Highway Sign - Damaged', 199
+'Special Natural Area District SNAD', 477
+'Noise - Street/Sidewalk', 234789
+'Special Projects Inspection Team SPIT', 23270
+'FLOORING/STAIRS', 79338
+'Street Light Condition', 401614
+'Bike/Roller/Skate Chronic', 2999
+'Smoking', 3304
+'General Construction/Plumbing', 209749
+'PAINT/PLASTER', 208299
+'OEM Disabled Vehicle', 1913
+'Urinating in Public', 3088
+'Food Poisoning', 11104
+'No Child Left Behind', 15
+'Discipline and Suspension', 371
+'Asbestos/Garbage Nuisance', 1
+'DPR Internal', 1779
+'Scaffold Safety', 1812
+'DRIE', 993
+'Safety', 539
+'Miscellaneous Categories', 942
+'Sewer', 255659
+'DOE Complaint or Compliment', 465
+'LinkNYC', 73
+'Overflowing Recycling Baskets', 125
+'Advocate - Other', 1
+'Noise Survey', 16272
+'Public Assembly - Temporary', 20
+'Rodent', 159452
+'Missed Collection All Materials', 149266
+'ELEVATOR', 2907
+'Other Enforcement', 38784
+'Homeless Encampment', 21883
+'Calorie Labeling', 47
+'Unsanitary Animal Pvt Property', 12090
+'Lifeguard', 91
+'Parent Leadership', 51
+'Illegal Tree Damage', 11002
+'Municipal Parking Facility', 548
+'Sweeping/Inadequate', 1127
+'Blocked Driveway', 546049
+'PAINT - PLASTER', 339453
+'Building/Use', 185369
+'Lost Property', 7
+'Tattooing', 11
+'SG-99', 1
+'Graffiti', 97809
+'Fire Alarm - Replacement', 80
+'Illegal Parking', 441645
+'GENERAL', 86797
+'Trapping Pigeon', 1
+'Beach/Pool/Sauna Complaint', 1191
+'Root/Sewer/Sidewalk Condition', 45904
+'Interior Demo', 10
+'Hazardous Materials', 17779
+'Tanning', 19
+'Teaching/Learning/Instruction', 363
+'Plumbing', 28679
+'VACANT APARTMENT', 3
+'Drinking Water', 753
+'Standing Water', 5905
+'Taxi Compliment', 2
+'Recycling Enforcement', 6585
+'CONSTRUCTION', 4789
+'Overflowing Litter Baskets', 8564
+'X-Ray Machine/Equipment', 88
+'Advocate-Business Tax', 2
+'Fire Alarm - Reinspection', 1703
+'Indoor Sewage', 6578
+'Legal Services Provider Complaint', 121
+'Cooling Tower', 1
+'Illegal Animal Sold', 124
+'Drinking', 9329
+'Asbestos', 13241
+'Street Sign - Missing', 27495
+'Damaged Tree', 160403
+'Mold', 1857
+'Non-Residential Heat', 1956
+'Air Quality', 51791
+'Street Condition', 646295
+'Mosquitoes', 4
+'Benefit Card Replacement', 1
+'Sidewalk Condition', 45992
+'Request Xmas Tree Collection', 1928
+'Derelict Vehicle', 123900
+'APPLIANCE', 74328
+'SAFETY', 27952
+'Litter Basket / Request', 16872
+'Senior Center Complaint', 1949
+'Panhandling', 1645
+'OUTSIDE BUILDING', 4587
+'Taxi Complaint', 115723
+'AGENCY', 5
+'Noise - Commercial', 228576
+'New Tree Request', 73134
+'Illegal Fireworks', 1432
+'Complaint', 1
+'Vending', 28191
+'Bike Rack Condition', 782
+'Violation of Park Rules', 2806
+'NONCONST', 246030
+'Traffic', 26465
+'SRDE', 14
+'Stalled Sites', 455
+'Public Toilet', 300
+'Summer Camp', 6
+'Bridge Condition', 3096
+'Harboring Bees/Wasps', 1213
+'Fire Safety Director - F58', 24191
+'Standpipe - Mechanical', 8
+'Traffic Signal Condition', 186513
+'Highway Sign - Missing', 108
+'Water Quality', 8246
+'Animal Abuse', 33046
+'Unlicensed Dog', 1
+'Trans Fat', 11
+'Public Payphone Complaint', 5198
+'School Maintenance', 11172
+'Dead/Dying Tree', 2872
+'Drug Activity', 961
+'Elevator', 64567
+'DOF Literature Request', 2
+'Noise - Park', 22152
+'Curb Condition', 7090
+'Bus Stop Shelter Placement', 1704
+'For Hire Vehicle Complaint', 20278
+'Sprinkler - Mechanical', 13
+'Radioactive Material', 61
+'Noise - Vehicle', 115116
+'Animal in a Park', 2846
+'Sweeping/Missed-Inadequate', 5490
+'Derelict Vehicles', 109263
+'Overgrown Tree/Branches', 67610
+'Broken Parking Meter', 16559
+'Maintenance or Facility', 24691
+'FHE', 33
+'Electrical', 25193
+'Public Assembly', 253
+'Unsanitary Pigeon Condition', 3247
+'Construction', 27082
+'DOF Property - Reduction Issue', 1
+'Sanitation Condition', 196191
+'Water System', 437283
+'Advocate-Commercial Exemptions', 4
+'BEST/Site Safety', 5727
+'Electronics Waste', 6902
+'Adopt-A-Basket', 414
+'Animal Facility - No Permit', 245
+'Derelict Bicycle', 6089
+'Street Sign - Damaged', 44976
+'Sweeping/Missed', 3465
+'Street Sign - Dangling', 12234
+'Highway Condition', 25774
+'Literature Request', 165
+'ATF', 60
+'Noise - Residential', 1185308
+'Investigations and Discipline IAD', 7259
+'For Hire Vehicle Report', 917
+'Non-Emergency Police Matter', 41934
+'Cranes and Derricks', 2301
+'Consumer Complaint', 119068
+'Open Flame Permit', 165
+'Fire Alarm - Addition', 113
+'Forensic Engineering', 270
+'Bottled Water', 109
+'Illegal Animal Kept as Pet', 609
+'Advocate-UBT', 1
+'Unleashed Dog', 2862
+'Indoor Air Quality', 28078
+'Special Enforcement', 38046
+'STRUCTURAL', 16
+'Portable Toilet', 13
+'Homeless Person Assistance', 57353
+'City Vehicle Placard Complaint', 2354
