@@ -4,8 +4,8 @@ The project is about a basic analysis of the efficiency of the NYC 311 services.
 The main analysis will based on NYC 311 request, an brief additional analysis on LA 311 request is used as a comparison.
 
 # Group Member:
-* Yihao Song. [songyihao1992@gmail.com](songyihao1992@gmail.com)
-* Derrick Chong. [derrickc0527@gmail.com](derrickc0527@gmail.com)
+* Derrick Chong [derrickc0527@gmail.com](derrickc0527@gmail.com)
+* Yihao Song [songyihao1992@gmail.com](songyihao1992@gmail.com)
 
 # Methodology:
 ## Running on the Hadoop with Sparks
@@ -18,6 +18,9 @@ $ hadoop fs -chmod +x <your python file location>
 
 Command:
 $ spark-submit --name <name of job> --num-executors <number> <python code location>
+
+# Data Sets:
+1. [311_Service_Requests_from_2010_to_Present.zip](https://s3-us-west-2.amazonaws.com/bigdatamanagement/311_Service_Requests_from_2010_to_Present.zip)
 
 # Final Report:
 This is the [link](https://github.com/yihaosong/BDM_Project/blob/master/BDM_report2.docx) to our final report.
