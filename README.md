@@ -24,11 +24,11 @@ This is the [link](https://github.com/yihaosong/BDM_Project/blob/master/BDM_repo
 
 # About this repository
 * Codes used on Hadoop Cluster:
-1. [Cluster](https://github.com/yihaosong/BDM_Project/blob/master/la_data.py)
-2. [Cluster](https://github.com/yihaosong/BDM_Project/blob/master/nyc_311.py)
+1. [Cluster - LA Analysis](https://github.com/yihaosong/BDM_Project/blob/master/la_data.py)
+2. [Cluster - NYC Aanlysis](https://github.com/yihaosong/BDM_Project/blob/master/nyc_311.py)
 
 * Codes used on Spark Analysis:
-1. [Spark](https://github.com/yihaosong/BDM_Project/blob/master/project_test.ipynb)
-2. [Spark](https://github.com/yihaosong/BDM_Project/blob/master/311NYC.ipynb)
-3. [Spark](https://github.com/yihaosong/BDM_Project/blob/master/nyc_data_view.ipynb)
-4. [Spark](https://github.com/yihaosong/BDM_Project/blob/master/la_data_view.ipynb)
+1. [Spark - NYC Analysis 1](https://github.com/yihaosong/BDM_Project/blob/master/project_test.ipynb)
+2. [Spark - NYC Analysis 2](https://github.com/yihaosong/BDM_Project/blob/master/311NYC.ipynb)
+3. [Spark - NYC Analysis 3](https://github.com/yihaosong/BDM_Project/blob/master/nyc_data_view.ipynb)
+4. [Spark - LA Analysis](https://github.com/yihaosong/BDM_Project/blob/master/la_data_view.ipynb)
