@@ -8,8 +8,8 @@ import matplotlib
 import matplotlib.pyplot as plt
 #%matplotlib inline
 
-import seaborn as sns
-sns.set(style="whitegrid")
+#import seaborn as sns
+#sns.set(style="whitegrid")
 
 import pandas as pd
 
