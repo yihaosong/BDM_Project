@@ -31,7 +31,8 @@ This is the [link](https://github.com/yihaosong/BDM_Project/blob/master/BDM_repo
 # About this repository
 * Codes used on Hadoop Cluster:
 1. [Cluster - LA Analysis](https://github.com/yihaosong/BDM_Project/blob/master/la_data.py)
-2. [Cluster - NYC Aanlysis](https://github.com/yihaosong/BDM_Project/blob/master/nyc_311.py)
+2. [Cluster - NYC Aanlysis 1](https://github.com/yihaosong/BDM_Project/blob/master/nyc_311.py)
+3. [Cluster - NYC Analysis 2](https://github.com/yihaosong/BDM_Project/blob/master/project_test1_w.py)
 
 * Codes used on Spark Analysis:
 1. [Spark - NYC Analysis 1](https://github.com/yihaosong/BDM_Project/blob/master/project_test.ipynb)
