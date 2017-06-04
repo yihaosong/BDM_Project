@@ -4,8 +4,8 @@ The project is about a basic analysis of the efficiency of the NYC 311 services.
 The main analysis will based on NYC 311 request, an brief additional analysis on LA 311 request is used as a comparison.
 
 # Group Member:
-* Derrick Chong [derrickc0527@gmail.com](derrickc0527@gmail.com)
-* Yihao Song [songyihao1992@gmail.com](songyihao1992@gmail.com)
+* Derrick Chong: [derrickc0527@gmail.com](derrickc0527@gmail.com)
+* Yihao Song: [songyihao1992@gmail.com](songyihao1992@gmail.com)
 
 # Methodology:
 ## Running on the Hadoop with Sparks
