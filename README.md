@@ -21,6 +21,9 @@ $ spark-submit --name <name of job> --num-executors <number> <python code locati
 
 # Data Sets:
 1. [311_Service_Requests_from_2010_to_Present.zip](https://s3-us-west-2.amazonaws.com/bigdatamanagement/311_Service_Requests_from_2010_to_Present.zip)
+2. [MyLA311_Service_Request_Data_2016.csv](https://s3-us-west-2.amazonaws.com/bigdatamanagement/MyLA311_Service_Request_Data_2016.csv)
+3. [NYCRestaurantsLocations.csv](https://s3-us-west-2.amazonaws.com/bigdatamanagement/NYCRestaurantsLocations.csv)
+4. [neighborhoods.geojson](https://s3-us-west-2.amazonaws.com/bigdatamanagement/neighborhoods.geojson)
 
 # Final Report:
 This is the [link](https://github.com/yihaosong/BDM_Project/blob/master/BDM_report2.docx) to our final report.
