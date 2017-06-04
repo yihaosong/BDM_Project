@@ -15,3 +15,6 @@ $ hadoop fs -chmod +x <your python file location>
 Command:
 $ spark-submit --name <name of job> --num-executors <number> <python code location>
 
+# Final Report:
+This is the [link](https://github.com/yihaosong/BDM_Project/blob/master/BDM_report2.docx) to our final report.
+
